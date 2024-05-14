@@ -28,7 +28,7 @@ input[type=text], select {
 }
 
 button {
-    background-color: #4CAF50;
+    background-color: #50368a;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
@@ -36,4 +36,9 @@ button {
     cursor: pointer;
     width: 100%;
     border-radius: 12px 0 12px 0px;
+}
+
+#toggle {
+    color: grey;
+    font-size: small;
 }
