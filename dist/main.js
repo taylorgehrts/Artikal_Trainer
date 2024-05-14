@@ -18,9 +18,9 @@ function generateWord() {
 }
 function checkAnswer() {
     var _a;
-    const enteredArticle = document.getElementById('answer').value;
+    const enteredArticle = document.getElementById('answer').value.toLowerCase();
     const currentWord = document.getElementById('word').textContent;
-    const correctArticle = (_a = words.find(word => word.word === currentWord)) === null || _a === void 0 ? void 0 : _a.article;
+    const correctArticle = (_a = words.find(word => word.word === currentWord)) === null || _a === void 0 ? void 0 : _a.article.toLowerCase();
     if (enteredArticle === correctArticle) {
         document.getElementById('result').textContent = 'Correct!';
         document.getElementById('result').style.color = 'green';

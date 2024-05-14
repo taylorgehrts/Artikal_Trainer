@@ -19,9 +19,9 @@ function generateWord() {
 }
 
 function checkAnswer() {
-    const enteredArticle = (document.getElementById('answer') as HTMLInputElement).value;
+    const enteredArticle = (document.getElementById('answer') as HTMLInputElement).value.toLowerCase();
     const currentWord = document.getElementById('word')!.textContent;
-    const correctArticle = words.find(word => word.word === currentWord)?.article;
+    const correctArticle = words.find(word => word.word === currentWord)?.article.toLowerCase();
 
     if (enteredArticle === correctArticle) {
         document.getElementById('result')!.textContent = 'Correct!';
