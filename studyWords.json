@@ -1,0 +1,556 @@
+[
+    {
+        "word": "buchstabieren",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to spell"
+    },
+    {
+        "word": "notieren",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to note/to take a note of"
+    },
+    {
+        "word": "raten",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to guess"
+    },
+    {
+        "word": "sammeln",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to collect/to gather/ to glean"
+    },
+    {
+        "word": "Verabredung",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "appointment/date"
+    },
+    {
+        "word": "meistens",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "mostly"
+    },
+    {
+        "word": "normalerweise",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "usually"
+    },
+    {
+        "word": "Wohnort",
+        "article": "der",
+        "wordType": "noun",
+        "translation": "domicile, place of residence"
+    },
+    {
+        "word": "Notiz",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "note"
+    },
+    {
+        "word": "passen",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to fit"
+    },
+    {
+        "word": "suchen",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to look for"
+    },
+    {
+        "word": "warten",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to wait"
+    },
+    {
+        "word": "hafen",
+        "article": "der",
+        "wordType": "noun",
+        "translation": "harbor"
+    },
+    {
+        "word": "lang",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "long"
+    },  
+    {
+        "word": "breit",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "wide"
+    },  
+    {
+        "word": "hoch",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "high"
+    },  
+    {
+        "word": "über",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "over"
+    },  
+    {
+        "word": "Schiff",
+        "article": "das",
+        "wordType": "noun",
+        "translation": "ship"
+    },  
+    {
+        "word": "Flugzeug",
+        "article": "das",
+        "wordType": "noun",
+        "translation": "airplane"
+    },  
+    {
+        "word": "zeigen",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to show"
+    },  
+    {
+        "word": "Start",
+        "article": "der",
+        "wordType": "neun",
+        "translation": "start"
+    },  
+    {
+        "word": "Ziel",
+        "article": "das",
+        "wordType": "noun",
+        "translation": "destination/goal"
+    },  
+    {
+        "word": "schon",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "already/yet"
+    },  
+    {
+        "word": "Regisseur",
+        "article": "der",
+        "wordType": "noun",
+        "translation": "director"
+    },  
+    {
+        "word": "Regisseurin",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "director"
+    },  
+    {
+        "word": "Ausstellung",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "exhibition"
+    },  
+    {
+        "word": "Jahrezeit",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "season"
+    },  
+    {
+        "word": "Plakat",
+        "article": "das",
+        "wordType": "noun",
+        "translation": "poster"
+    },  
+    {
+        "word": "Lösung",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "solution"
+    },  
+    {
+        "word": "Becher",
+        "article": "der",
+        "wordType": "noun",
+        "translation": "beaker/cup"
+    },  
+    {
+        "word": "Dose",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "tin/can"
+    },  
+    {
+        "word": "Tüte",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "bag"
+    },  
+    {
+        "word": "Kassenzettel",
+        "article": "der",
+        "wordType": "noun",
+        "translation": "receipt"
+    },  
+
+    {
+        "word": "wechseln",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to change/to exchange"
+    },  
+    {
+        "word": "Gericht",
+        "article": "das",
+        "wordType": "noun",
+        "translation": "dish(essen)/court(law)"
+    },  
+    {
+        "word": "Einladung",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "invitation"
+    },  
+    {
+        "word": "gesund",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "healthy/well"
+    },  
+    {
+        "word": "schneiden",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to cut"
+    },  
+
+    {
+        "word": "probieren",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to try"
+    },  
+    {
+        "word": "wenig",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "little/less"
+    },  
+
+    {
+        "word": "wichtig",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "important"
+    },  
+    {
+        "word": "duschen",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to shower"
+    },  
+    {
+        "word": "besuchen",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to visit"
+    },  
+    {
+        "word": "treffen",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to meet"
+    },  
+    {
+        "word": "Nachricht",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "news/message"
+    },  
+    {
+        "word": "Mensa",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "canteen/cafeteria"
+    },  
+    {
+        "word": "Hausaufgabe",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "homework"
+    },  
+    {
+        "word": "Zeitung",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "newspaper"
+    },  
+    {
+        "word": "Viertel",
+        "article": "das",
+        "wordType": "noun/adjective/adverbs",
+        "translation": "quarter"
+    },  
+    {
+        "word": "Verspätung",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "delay"
+    },  
+    {
+        "word": "pünklich",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "punctual"
+    },  
+    {
+        "word": "Verwandte",
+        "article": "der/die",
+        "wordType": "noun",
+        "translation": "relative"
+    },  
+    {
+        "word": "Geschwister",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "siblings"
+    },  
+    {
+        "word": "ledig",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "single/unmarried"
+    },  
+    {
+        "word": "verheiratet",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "married"
+    },  
+    {
+        "word": "Auf Wiederhören",
+        "article": "",
+        "wordType": "phrase",
+        "translation": "Goodbye (on the phone)"
+    },  
+    {
+        "word": "Besprechung",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "meeting"
+    },  
+    {
+        "word": "wichtig",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "important"
+    },  
+    {
+        "word": "klettern",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to climb"
+    },  
+    {
+        "word": "Ausflug",
+        "article": "der",
+        "wordType": "noun",
+        "translation": "excursion/trip"
+    },  
+    {
+        "word": "werden",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to become"
+    },  
+    {
+        "word": "schenken",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to give/to present"
+    },  
+    {
+        "word": "Geschenk",
+        "article": "das",
+        "wordType": "noun",
+        "translation": "gift/present"
+    },  
+    {
+        "word": "Überraschung",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "surprise"
+    },  
+    {
+        "word": "wissen",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to know"
+    },  
+    {
+        "word": "hoffentlich",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "hopefully"
+    },  
+    {
+        "word": "Betreff",
+        "article": "der",
+        "wordType": "noun",
+        "translation": "subject"
+    },  
+    {
+        "word": "Anrede",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "salutation/address/title"
+    },  
+    {
+        "word": "herzlich",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "cordial/warm/heartly"
+    },  
+    {
+        "word": "Bestellung",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "order"
+    },  
+    {
+        "word": "bestellen",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to order"
+    },  
+    {
+        "word": "bezahlen",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to pay"
+    },  
+    {
+        "word": "getrennt",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "separate"
+    },  
+    {
+        "word": "Gabel",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "fork"
+    },  
+    {
+        "word": "Messer",
+        "article": "der",
+        "wordType": "noun",
+        "translation": "knife"
+    },  
+    {
+        "word": "Löffel",
+        "article": "der",
+        "wordType": "noun",
+        "translation": "spoon"
+    },  
+    {
+        "word": "Teller",
+        "article": "der",
+        "wordType": "noun",
+        "translation": "plate"
+    },  
+    {
+        "word": "Selbstbedienung",
+        "article": "die",
+        "wordType": "noun",
+        "translation": "self-service"
+    },  
+    {
+        "word": "geöffnet",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "open"
+    },  
+    {
+        "word": "draußen",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "outside"
+    },  
+    {
+        "word": "Treffpunkt",
+        "article": "der",
+        "wordType": "noun",
+        "translation": "meeting point"
+    },  
+    {
+        "word": "eintritt",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "entry/admission"
+    },  
+    {
+        "word": "anfangen",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to begin"
+    },  
+
+    {
+        "word": "glauben",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to think/to believe"
+    },  
+    {
+        "word": "genießen",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to enjoy"
+    },  
+    {
+        "word": "passieren",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to happen/ to occur"
+    },  
+    {
+        "word": "wieder",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "again"
+    },  
+    {
+        "word": "besonders",
+        "article": "",
+        "wordType": "adjective/adverbs",
+        "translation": "especially, particularly"
+    },  
+    {
+        "word": "klingen",
+        "article": "",
+        "wordType": "verb",
+        "translation": "to sound"
+    },  
+    {
+        "word": "klingt gut",
+        "article": "",
+        "wordType": "phrase",
+        "translation": "sounds good"
+    },  
+
+
+    
+
+
+    
+    
+    
+
+]
+
