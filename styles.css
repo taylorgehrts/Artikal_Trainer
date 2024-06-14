@@ -27,6 +27,11 @@ input[type=text], select {
     text-align: center; /* Added property */
 }
 
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
 button {
     background-color: #50368a;
     color: white;
@@ -34,7 +39,7 @@ button {
     margin: 8px 0;
     border: none;
     cursor: pointer;
-    width: 100%;
+    width: 50%;
     border-radius: 12px 0 12px 0px;
 }
 
@@ -42,3 +47,4 @@ button {
     color: grey;
     font-size: small;
 }
+
